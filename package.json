@@ -1,0 +1,24 @@
+{
+  "name": "gpio-mocker",
+  "description": "NodeJS module to mock the GPIO on a non Raspberry Pi system. Useful for development and to simulate i/o without having to physically wire the cables to test your apps.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kptdobe/gpio-mocker",
+  "author": {
+    "name": "Alexandre Capt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kptdobe/gpio-mocker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kptdobe/gpio-mocker/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/kptdobe/gpio-mocker/blob/master/LICENSE"
+    }
+  ],
+  "main": "./index.js",
+  "readmeFilename": "README.md"
+}
